@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xtemp00( benjamin rondo )
 - 👀 I’m interested in dev Web and dev Game
-- 🌱 I’m currently learning CSS, HTML, Javascript, Python, SQL, C, C++, c#
-
+- 🌱 I’m currently learning CSS, HTML, Javascript, Python, SQL, C, c# and Java 
+- 📖 I'm in first undergraduate year in computer sciences 
 
 
 <!---
